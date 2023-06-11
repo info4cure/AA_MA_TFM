@@ -1,5 +1,4 @@
-# AA_MA_TFM
-Repositorio de los archivos y scripts empleados para el Trabajo de Fin de Máster **"ANÁLISIS DEL TRANSCRIPTOMA DE LA ALOPECIA AREATA DERIVADO DE UN META-ANÁLISIS DE ESTUDIOS DE EXPRESIÓN GÉNICA"**  
+Repositorio de los archivos y scripts empleados para el Trabajo de Fin de Máster   **"ANÁLISIS DEL TRANSCRIPTOMA DE LA ALOPECIA AREATA DERIVADO DE UN META-ANÁLISIS DE ESTUDIOS DE EXPRESIÓN GÉNICA"**  
 Máster Universitario en Investigación Biomédica Traslacional  
 Universidad de Córdoba  
 *Autora*: Irene Rivera Ruiz  
